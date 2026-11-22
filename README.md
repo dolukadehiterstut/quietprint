@@ -1,4 +1,4 @@
-<p style=text-align:center; width:50px;><img src=logo.png></p>
+<p style=text-align:center; width:20%;><img src=logo.png></p>
 
 # quietprint
 
