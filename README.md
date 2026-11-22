@@ -1,3 +1,5 @@
+<p style=text-align:center;><img src=logo.png></p>
+
 # quietprint
 
 Quietprint is a Rust tool for **purely passive** TCP/IP operating-system fingerprinting. It analyzes SYN and SYN+ACK packets in packet capture files and estimates the sending stack's OS family from TCP/IP header characteristics.
