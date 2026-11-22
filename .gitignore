@@ -1,0 +1,7 @@
+/target
+/fuzz/target
+__pycache__/
+*.py[cod]
+*.pcap
+*.pcapng
+*.key
